@@ -1,0 +1,24 @@
+# Environment
+ComputerVision/
+
+# Visual Studio Code
+.vscode/
+
+# Cache
+.DS_Store
+*__pycache__*
+
+# Report
+*.pages
+*.pdf
+*.zip
+
+# HW1
+HW1/advanced_rgb2gray/1*/s*/1*.png
+
+# HW2
+HW2/hw2_data/
+HW2/hw2_result/hw2-3_result/k_means/*.png
+
+# Endnote
+Endnote/
